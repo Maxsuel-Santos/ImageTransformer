@@ -50,7 +50,7 @@ if arquivo:
         espelhar_vertical(matriz)
     ]
 
-    titulos = ['Original', '90°', '180°', '270°', 'Espelho H', 'Espelho V']
+    titulos = ['Original', '90°', '180°', '270°', 'Espelho Horizontal', 'Espelho Vertical']
 
     # Exibição
     st.subheader("Transformações:")
