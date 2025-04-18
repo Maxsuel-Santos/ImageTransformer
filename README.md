@@ -1,6 +1,6 @@
 # 🖼️ Visualizador e Transformador de Imagens com Streamlit
 
-Este aplicativo web foi desenvolvido usando **Streamlit** e permite **carregar imagens** nos formatos **PBM, PNG, JPG ou JPEG**, aplicar transformações visuais e **visualizar os resultados diretamente no navegador**.
+Este aplicativo web foi desenvolvido usando **Streamlit** e permite **carregar imagens** nos formatos **PBM, PNG, JPG ou JPEG**, aplicar transformações visuais e **visualizar os resultados diretamente no navegador**. Esta aplicação foi uma atividade proposta por um professor da UESB.
 
 ---
 
